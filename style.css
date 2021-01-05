@@ -1,5 +1,9 @@
 body{
     margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+section{
+    height: 480px;
 }
 .half h1{
  font-size: 40px;
