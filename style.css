@@ -11,6 +11,7 @@ section{
 }
 .half p{
     font-size: 30px;
+    color: mediumpurple;
 }
 .half{
     width: 40%;
@@ -20,7 +21,9 @@ section{
 }
 .half img{
     width: 70%;
-   
+}
+.span{
+    color: darkorange;
 }
 .link{
     text-decoration: none;
@@ -33,19 +36,33 @@ section{
 .halfe{
     width: 30%;
     float: left;
-    margin-left: 2%;
-    
-    background-color: whitesmoke;
-    border-radius: 10%;
-    padding: 2px 2px 2px 2px;
+    border-radius: 5%;
+    margin: 20%;
+    margin-top: 5%;
+    margin-right: 6px;
+    margin-left: 4px;
+    padding-right: 2%;
+    background-color:linen;   
 }
 .halfe img{
     width: 70%;
     position: center ;
+    padding: 0px 60px;   
 }
 .third{
-    background-color: darkgray;
+    background-color: rgb(219, 211, 211);   
 }
 .third h1{
     text-align: center;
+    font-size: 30px;
+    transform: translate(0%,50px); 
+}
+.halfe h2{
+    color: rgb(38, 38, 228);
+    padding: 1px 9px;
+    font-size: 25px;
+}
+.halfe p{
+    padding: 1px 9px;
+    font-size: 20px;
 }
