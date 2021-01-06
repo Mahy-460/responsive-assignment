@@ -30,3 +30,22 @@ section{
     border-radius: 10%;
     font-weight: 700;
 }
+.halfe{
+    width: 30%;
+    float: left;
+    margin-left: 2%;
+    
+    background-color: whitesmoke;
+    border-radius: 10%;
+    padding: 2px 2px 2px 2px;
+}
+.halfe img{
+    width: 70%;
+    position: center ;
+}
+.third{
+    background-color: darkgray;
+}
+.third h1{
+    text-align: center;
+}
