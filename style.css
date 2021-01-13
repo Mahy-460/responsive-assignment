@@ -33,7 +33,7 @@ section{
     border-radius: 10%;
     font-weight: 700;
 }
-.halfe{
+.new{
     width: 30%;
     float: left;
     border-radius: 5%;
@@ -44,7 +44,7 @@ section{
     padding-right: 2%;
     background-color:linen;   
 }
-.halfe img{
+.new img{
     width: 70%;
     position: center ;
     padding: 0px 60px;   
@@ -55,14 +55,14 @@ section{
 .third h1{
     text-align: center;
     font-size: 30px;
-    transform: translate(0%,50px); 
+   
 }
-.halfe h2{
+.new h2{
     color: rgb(38, 38, 228);
     padding: 1px 9px;
     font-size: 25px;
 }
-.halfe p{
+.new p{
     padding: 1px 9px;
     font-size: 20px;
 }
