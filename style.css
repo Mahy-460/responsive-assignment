@@ -1,7 +1,4 @@
-.container{
-    
-    
-}
+
 .top{
  background-image: linear-gradient(white, #ffe6e6);
 }
@@ -58,7 +55,14 @@
 }
 .bor{
     border: none;
+    margin-right: 20px;
 }
 .ji img{
     width: 100px;
+}
+.tolo img{
+    width: 100px;
+}
+.finish{
+    border-radius: 10px;
 }
