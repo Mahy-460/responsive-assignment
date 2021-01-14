@@ -1,7 +1,10 @@
-
-.top{
- background-image: linear-gradient(white, #ffe6e6);
+.all{
+    font-family: 'Roboto', sans-serif;
 }
+.new{
+    background-image: linear-gradient(white,#ffe6e6);
+}
+
 .nub img{
     width: 40%;
 }
@@ -65,4 +68,7 @@
 }
 .finish{
     border-radius: 10px;
+}
+.ji{
+    border: 0;
 }
