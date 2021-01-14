@@ -1,0 +1,64 @@
+.container{
+    
+    
+}
+.top{
+ background-image: linear-gradient(white, #ffe6e6);
+}
+.nub img{
+    width: 40%;
+}
+.img img{
+    width: 80%;
+}
+.tx h1{
+    font-size: 60px;
+    color: rgba(255, 165, 0,0.78);
+    font-weight: 730;
+}
+.tx h2{
+    font-size:60px ;
+    color: navy;
+    font-weight: 730;
+}
+.bt{
+    background-color: yellowgreen;
+    padding: 5px 17px;
+    border-radius: 7px;
+    font-size: 20px;
+    border: 0;
+    color: rgba(255, 255, 255, 0.918);
+}
+.ct img{
+    width: 75%;
+    background-color: thistle;
+    position: relative;
+    left: 50px;
+}
+.tc img{
+    width: 85%;
+    position: relative;
+    left: 30px;
+}
+.te {
+    border: 0;
+  
+}
+.te img{
+    border:1px solid gray ;
+    background-color: gray;
+    border-radius: 10px;
+}
+.fo{
+    border: 0;
+    background-color: white;
+}
+.tt img{
+    width: 100%;
+}
+.bor{
+    border: none;
+}
+.ji img{
+    width: 100px;
+}
